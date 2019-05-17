@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/derrickethornton/CryptoPriceTracker/issues"
   },
-  "homepage": "https://github.com/derrickethornton/CryptoPriceTracker#readme"
+  "homepage": "https://github.com/derrickethornton/CryptoPriceTracker#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
