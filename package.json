@@ -1,0 +1,19 @@
+{
+  "name": "cryptopricetracker",
+  "version": "1.0.0",
+  "description": "A simple application that lets you select a cryptocurrency to keep track of.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrickethornton/CryptoPriceTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derrickethornton/CryptoPriceTracker/issues"
+  },
+  "homepage": "https://github.com/derrickethornton/CryptoPriceTracker#readme"
+}
